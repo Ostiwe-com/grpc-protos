@@ -1,4 +1,4 @@
-module github.com/Ostiwe-com/grpc-protos.git
+module github.com/Ostiwe-com/grpc-protos
 
 go 1.21
 
